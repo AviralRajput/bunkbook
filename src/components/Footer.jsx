@@ -23,10 +23,11 @@ function Footer() {
           </nav>
           {/* 2. Reduced space between icons from space-x-6 to space-x-4 */}
           <div className="flex space-x-4">
-            <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="hover:text-blue-500 dark:hover:text-blue-400"><FaTwitter size={28} /></a>
+            <a href="https://x.com/SOMESHTIWA60883" target="_blank" rel="noopener noreferrer" className="hover:text-blue-500 dark:hover:text-blue-400"><FaTwitter size={28} /></a>
             <a href="https://www.instagram.com/dark10.aviral/" target="_blank" rel="noopener noreferrer" className="hover:text-pink-500 dark:hover:text-pink-400"><FaInstagram size={28} /></a>
             <a href="https://www.instagram.com/someshxd/" target="_blank" rel="noopener noreferrer" className="hover:text-pink-500 dark:hover:text-pink-400"><FaInstagram size={28} /></a>
             <a href="https://www.linkedin.com/in/aviral-rajput-077a37309" target="_blank" rel="noopener noreferrer" className="hover:text-blue-700 dark:hover:text-blue-500"><FaLinkedin size={28} /></a>
+            <a href="https://www.linkedin.com/in/somesh-tiwari-236555322" target="_blank" rel="noopener noreferrer" className="hover:text-blue-700 dark:hover:text-blue-500"><FaLinkedin size={28} /></a>
           </div>
         </div>
         <div className="text-center text-4xs mt-8 border-t border-gray-200 dark:border-gray-800 pt-6">
