@@ -21,6 +21,14 @@ const ParticleText = ({ text, isDark }) => {
     };
     window.addEventListener('mousemove', handleMouseMove);
 
+    // ✅ Added touch support for mobile bounce
+    window.addEventListener('touchmove', (e) => {
+      const touch = e.touches[0];
+      const rect = canvas.getBoundingClientRect();
+      mouse.x = touch.clientX - rect.left;
+      mouse.y = touch.clientY - rect.top;
+    });
+
     // ✅ Responsive canvas height
     if (window.innerWidth < 640) {
       canvas.height = 200; // tighter on mobile
