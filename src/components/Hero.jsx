@@ -34,7 +34,7 @@ function Hero({ isDark }) {
           <p className="underline decoration-2 underline-offset-4">(One Click Download the App)</p>
         </div>
 
-        <a href="https://github.com/Somesh520/Kietkt/releases/download/v1.0.0/app-arm64-v8a-release.apk" className="mt-8">
+        <a href="https://github.com/Somesh520/Kietkt/releases/download/v1.0.0/BunkBook.apk" className="mt-8">
           <button
             className="bg-gradient-to-r from-blue-500 to-purple-600 text-white px-8 py-4 rounded-lg font-bold text-lg sm:text-xl md:px-12 md:py-6 md:text-2xl shadow-lg hover:scale-105 transition animated-gradient-button"
             data-aos="zoom-in"
