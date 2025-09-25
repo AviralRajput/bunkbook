@@ -54,6 +54,9 @@ function Hero({ isDark }) {
           <p className="text-sm sm:text-base md:text-lg font-semibold text-gray-800 dark:text-gray-200 mt-1">
             UI/UX & Frontend by Aviral
           </p>
+          <p className="text-sm sm:text-base md:text-lg font-semibold text-gray-800 dark:text-gray-200 mt-1">
+            Managed and contributed by Sujal
+          </p>
           <p className="text-xs sm:text-sm md:text-base text-gray-600 dark:text-gray-400 mt-2">
             - KIET-IT Students
           </p>
