@@ -24,14 +24,14 @@ function Hero({ isDark }) {
         />
 
         <div className="max-w-4xl mx-auto space-y-4 text-gray-700 dark:text-gray-200 text-lg sm:text-xl md:text-3xl lg:text-4xl">
-          <p className="underline decoration-2 underline-offset-4">(Touch the BunkBook)</p>
+          <p className="underline decoration-2 underline-offset-4">Keep touching the BunkBook Logo</p>
           
           <p>
             Smart attendance tracker that helps you manage bunks without stress.
             Stay ahead with alerts, insights, and safe skip suggestions.
           </p>
 
-          <p className="underline decoration-2 underline-offset-4">(One Click Download the App)</p>
+          <p className="underline decoration-2 underline-offset-4">One Click Download the App</p>
         </div>
 
         <a href="https://github.com/Somesh520/Kietkt/releases/download/v1.0.0/BunkBook.apk" className="mt-8">
