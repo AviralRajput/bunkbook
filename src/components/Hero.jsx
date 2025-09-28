@@ -31,7 +31,7 @@ function Hero({ isDark }) {
             Stay ahead with alerts, insights, and safe skip suggestions.
           </p>
 
-          <p className="underline decoration-2 underline-offset-4">One Click Download the App</p>
+          <p className="underline decoration-2 underline-offset-4">To download click the link below</p>
         </div>
 
         <a href="https://github.com/Somesh520/Kietkt/releases/download/v1.0.0/BunkBook.apk" className="mt-8">
