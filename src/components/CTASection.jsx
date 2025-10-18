@@ -27,3 +27,4 @@ function CTASection() {
     </section>
   );
 }
+export default CTASection;
