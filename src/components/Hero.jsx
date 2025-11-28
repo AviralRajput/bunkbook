@@ -45,7 +45,7 @@ function Hero({ isDark }) {
         
 
         <div 
-          className="relative mt-10 bg-white/10 dark:bg-black/10 backdrop-blur-sm p-4 rounded-lg text-left md:absolute md:bottom-12 md:left-8 md:mt-0"
+          className="relative mt-10 bg-white/10 dark:bg-black/10 backdrop-blur-sm p-4 rounded-lg text-left md:absolute md:bottom-12 md:left-3 md:mt-0"
           data-aos="fade-right" 
           data-aos-delay="500"
         >
@@ -56,7 +56,7 @@ function Hero({ isDark }) {
             UI/UX & Frontend by Aviral
           </p>
           <p className="text-sm sm:text-base md:text-lg font-semibold text-gray-800 dark:text-gray-200 mt-1">
-            Managed and contributed by Ritesh Bhaskar
+            Managed and contributed by Sujal Kumar
           </p>
           <p className="text-xs sm:text-sm md:text-base text-gray-600 dark:text-gray-400 mt-2">
             - KIET-IT Students
